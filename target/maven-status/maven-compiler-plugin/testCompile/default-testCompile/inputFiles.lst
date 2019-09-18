@@ -1,0 +1,7 @@
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/config/DriverFactory.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/DriverBase.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/config/DriverSetup.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/listeners/ScreenshotListener.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/config/DriverType.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/tests/GoogleExampleIT.java
+/Users/gkalla/git/Selenium-Maven-Template/src/test/java/com/lazerycode/selenium/page_objects/GoogleHomePage.java
